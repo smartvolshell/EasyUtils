@@ -1,9 +1,7 @@
-package com.volshell.math.vectors.test;
+package com.volshell.math.vectors;
 
 import java.util.HashSet;
 import java.util.Set;
-
-import com.volshell.math.vectors.Sets;
 
 public class SetsTest {
 	private static Set<Integer> setA = new HashSet<Integer>();
